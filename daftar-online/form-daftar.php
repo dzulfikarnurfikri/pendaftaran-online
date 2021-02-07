@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Pendaftaran Online</title>
+	<title>Pendaftaran Online old</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
